@@ -46,7 +46,7 @@
         },
 		{"tag": "coursefee",
          "patterns": ["What is the course fees","what is the fees","How much need to pay"],
-         "responses": ["You can check our website for further reference! https://madhankumarselvaraj.blogspot.com/"],
+         "responses": ["You can check our website for further reference! https://www.udemy.com/user/krajmani/"],
          "context": [""]
         }
    ]
